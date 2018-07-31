@@ -377,6 +377,7 @@
       },
       "description": "Class which is a sparse representation of a Traffic Manager endpoint."
     },
+
     "QueryExperience": {
       "properties": {
           "endpointId": {
